@@ -1,0 +1,46 @@
+name: django
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - asgiref=3.3.4
+  - ca-certificates=2021.5.25
+  - certifi=2021.5.30
+  - django=3.2.3
+  - freetype=2.10.4
+  - jpeg=9b
+  - krb5=1.17.1
+  - lcms2=2.12
+  - ld_impl_linux-64=2.33.1
+  - libedit=3.1.20210216
+  - libffi=3.3
+  - libgcc-ng=9.1.0
+  - libpng=1.6.37
+  - libpq=12.2
+  - libstdcxx-ng=9.1.0
+  - libtiff=4.2.0
+  - libwebp-base=1.2.0
+  - lz4-c=1.9.3
+  - ncurses=6.2
+  - olefile=0.46
+  - openssl=1.1.1k
+  - pillow=8.2.0
+  - pip=21.0.1
+  - psycopg2=2.8.6
+  - python=3.8.2
+  - pytz=2021.1
+  - readline=8.1
+  - setuptools=52.0.0
+  - sqlite=3.35.4
+  - sqlparse=0.4.1
+  - tk=8.6.10
+  - wheel=0.36.2
+  - xz=5.2.5
+  - zlib=1.2.11
+  - zstd=1.4.9
+  - pip:
+    - click==8.0.1
+    - click-default-group==1.2.2
+    - sqlite-fts4==1.0.1
+    - sqlite-utils==3.7
+    - tabulate==0.8.9
